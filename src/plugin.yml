@@ -8,3 +8,4 @@ commands:
   nospawn:
     description: NoSpawn commands
     usage: 'Syntax: /<command> <allowspawn, denyspawn, despawn, spawn, setmoblimit, settotalmoblimit or settimer> <value>'
+`1
